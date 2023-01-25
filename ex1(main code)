@@ -1,0 +1,26 @@
+<<!doctype html>
+html>
+    <head>
+        <title>ex:1</title>
+       
+    </head>
+    <body style="border: 5px solid black">
+        
+        <h1 style="text-align: center"; >Touch horse, goat, hen to know its features</h1>
+    <center>
+        <img  src="C:\Users\computer\OneDrive\Pictures\Screenshots\whole image.png"  usemap="#animalsmap"><br>
+   
+    <map name="animalsmap">
+        <area shape="poly" target="_blank" coords="380,318,370,322,353,333,337,339,318,350,307,354,267,350,232,359,215,
+                  413,248,406,268,385,295,395,331,397,359,380,371,358,397,334" href="horse.html">
+        <area shape="poly" target="_blank" coords="548,127,535,120,522,115,514,119,505,135,499,146,491,155,478,164,467,
+                  165,441,165,421,160,399,159,383,171,388,201,393,222,385,239,409,209,426,214,447,214,417,208,478,218,480,239,
+                  491,207,504,197,510,162,523,151,534,135" href="goat.html">
+        <area shape="poly" target="_blank" coords="494,316,505,313,515,320,525,334,531,344,549,354,560,349,574,331,582,317,592,
+                  321,594,338,594,354,592,375,587,395,579,409,568,415,560,428,541,445,540,421,528,408,516,399,503,392,497,378,
+                  502,364,504,348,348,505,330,503,327"
+              href="hen.html">
+        </center>
+        <br>
+</body>
+</html>
